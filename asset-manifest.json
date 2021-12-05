@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phoebexiong.github.io/static/css/main.76598800.chunk.css",
+    "main.js": "/phoebexiong.github.io/static/js/main.ff03e59b.chunk.js",
+    "main.js.map": "/phoebexiong.github.io/static/js/main.ff03e59b.chunk.js.map",
+    "runtime-main.js": "/phoebexiong.github.io/static/js/runtime-main.494ef962.js",
+    "runtime-main.js.map": "/phoebexiong.github.io/static/js/runtime-main.494ef962.js.map",
+    "static/js/2.11d5690f.chunk.js": "/phoebexiong.github.io/static/js/2.11d5690f.chunk.js",
+    "static/js/2.11d5690f.chunk.js.map": "/phoebexiong.github.io/static/js/2.11d5690f.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/phoebexiong.github.io/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/phoebexiong.github.io/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/phoebexiong.github.io/index.html",
+    "static/css/main.76598800.chunk.css.map": "/phoebexiong.github.io/static/css/main.76598800.chunk.css.map",
+    "static/js/2.11d5690f.chunk.js.LICENSE.txt": "/phoebexiong.github.io/static/js/2.11d5690f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.494ef962.js",
+    "static/js/2.11d5690f.chunk.js",
+    "static/css/main.76598800.chunk.css",
+    "static/js/main.ff03e59b.chunk.js"
+  ]
+}
